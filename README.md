@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HabtamuArgeta
+- 👋 Hi, call me Habtamu Argeta
 - 👀 I’m interested in coding to solve real world problems.
 - 🌱 I’m currently learning computer science in Addis Ababa University.
 - 💞️ I’m looking to collaborate on any software development by using java,c++,python as well as front end web development !!
-- 📫 You can reach me via https://habtamuargeta.github.io/My-Resum/
+- 📫 You can reach me via [habtamuargeta.com](https://habtamuargeta.github.io/My-Resum/)
 
 <!---
 HabtamuArgeta/HabtamuArgeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
