@@ -41,7 +41,8 @@ The tools come and go, but some concepts are kept, that's where I keep my effort
 <p align="center">
 <div align=center>
   <a href="https://github.com/HabtamuArgeta" title="Go to Profile">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=HabtamuArgeta&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    ![yolo](https://github.com/HabtamuArgeta?achievement=yolo&tab=achievements)
+    ![pull-shark](https://github.com/HabtamuArgeta?achievement=pull-shark&tab=achievements)
     </a>
 </div>
 </div>
