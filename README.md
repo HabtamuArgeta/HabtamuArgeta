@@ -5,6 +5,7 @@
 - 📫 You can reach me via [habtamuargeta.com](https://habtamuargeta.github.io/My-Resum/)
   
 ![](https://visitor-badge.laobi.icu/badge?page_id=HabtamuArgeta)
+<br>
 
 [![Check out HabtamuArgeta's profile on stardev.io](https://stardev.io/developers/HabtamuArgeta/badge/languages/global.svg)](https://stardev.io/developers/HabtamuArgeta)
 <a href="https://github.com/HabtamuArgeta/HabtamuArgeta">
