@@ -14,6 +14,10 @@
   <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=HabtamuArgeta&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Habtamu Argeta's GitHub Stats" />
 </a>  
 
+<a href="https://habtamuargeta.github.io/My-Resum">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=HabtamuArgeta&theme=prussian&hide_border=true" alt="[YOUR_ALT]"/>
+ </a>
+
 <!---
 HabtamuArgeta/HabtamuArgeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
