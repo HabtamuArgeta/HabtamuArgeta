@@ -5,6 +5,7 @@
 - 📫 You can reach me via [habtamuargeta.com](https://habtamuargeta.github.io/My-Resum/)
   
 ![](https://visitor-badge.laobi.icu/badge?page_id=HabtamuArgeta)
+
 [![Check out HabtamuArgeta's profile on stardev.io](https://stardev.io/developers/HabtamuArgeta/badge/languages/global.svg)](https://stardev.io/developers/HabtamuArgeta)
 <a href="https://github.com/HabtamuArgeta/HabtamuArgeta">
   <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabtamuArgeta&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
