@@ -36,10 +36,6 @@ Continuous deployment on
 
 The tools come and go, but some concepts are kept, that's where I keep my efforts.
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-
 
 <!---
 HabtamuArgeta/HabtamuArgeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
