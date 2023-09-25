@@ -18,6 +18,26 @@
    <img src="http://github-readme-streak-stats.herokuapp.com?user=HabtamuArgeta&theme=prussian&hide_border=true" alt="[YOUR_ALT]"/>
  </a>
 
+ I am proficient in  
+- HTML  
+- CSS  
+- JavaScript  
+- Git Version Control
+- java
+
+Packages/libraries such as:
+- ReactJS
+- Nodes
+- w3.css 
+
+
+Continuous deployment on  
+- Wordpress
+
+The tools come and go, but some concepts are kept, that's where I keep my efforts.
+
+
+
 <!---
 HabtamuArgeta/HabtamuArgeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
