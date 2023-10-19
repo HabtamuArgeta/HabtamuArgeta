@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding to solve real world problems.
 - 🌱 I’m currently learning computer science in Addis Ababa University.
 - 💞️ I’m looking to collaborate on any software development by using java,c++,python as well as front end web development !!
-- 📫 You can reach me via [habtamuargeta.com](https://habtamuargeta.github.io/My-Resum/)
+- 📫 You can reach me via [habtamuargeta.com](https://habtamuargeta.github.io/Portfolio/)
   
 ![](https://visitor-badge.laobi.icu/badge?page_id=HabtamuArgeta)
 <br>
