@@ -18,21 +18,29 @@
    <img src="http://github-readme-streak-stats.herokuapp.com?user=HabtamuArgeta&theme=prussian&hide_border=true" alt="[YOUR_ALT]"/>
  </a>
 
- I am proficient in  
-- HTML  
-- CSS  
+ I am proficient in    
+- C# 
 - JavaScript  
-- Git Version Control
 - java
+- Python
+- c++
+- Git Version Control
+
+Framework
+ - .NET Core
 
 Packages/libraries such as:
 - ReactJS
 - Nodes
+- Bootstrap
 - w3.css 
 
 
-Continuous deployment on  
+CMS  
 - Wordpress
+
+Continouse deployment on 
+  -AZURE Cloud 
 
 The tools come and go, but some concepts are kept, that's where I keep my efforts.
 
