@@ -15,7 +15,7 @@
 </a>  
 
 <a href="https://habtamuargeta.github.io/My-Resum">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=HabtamuArgeta&theme=prussian&hide_border=true" alt="[YOUR_ALT]"/>
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=HabtamuArgeta&theme=prussian&hide_border=true" alt="[Git hub api issue ]"/>
  </a>
 
  I am proficient in    
