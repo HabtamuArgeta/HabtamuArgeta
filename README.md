@@ -18,31 +18,9 @@
    <img src="http://github-readme-streak-stats.herokuapp.com?user=HabtamuArgeta&theme=prussian&hide_border=true" alt="[Git hub api issue ]"/>
  </a>
 
- I am proficient in    
-- C# 
-- JavaScript  
-- java
-- Python
-- c++
-- Git Version Control
-
 Framework
- - .NET Core
+ - Lets build with Flutter 
 
-Packages/libraries such as:
-- ReactJS
-- Nodes
-- Bootstrap
-- w3.css 
-
-
-CMS  
-- Wordpress
-
-Continouse deployment on 
-  -AZURE Cloud 
-
-The tools come and go, but some concepts are kept, that's where I keep my efforts.
 
 
 <!---
